@@ -13,3 +13,4 @@ Community roles:
 
 * Fail2ban https://galaxy.ansible.com/list#/roles/1079
 * Iptables https://galaxy.ansible.com/list#/roles/920
+* Mysql https://galaxy.ansible.com/list#/roles/509
