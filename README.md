@@ -6,7 +6,7 @@ Theodoers roles:
 
 * Automysqlbackup https://galaxy.ansible.com/list#/roles/1697
 * Autopostgresqlbackup https://galaxy.ansible.com/list#/roles/1697
-* Composer https://github.com/kosssi/ansible-role-composer
+* Composer https://galaxy.ansible.com/list#/roles/1119
 * Xdebug https://galaxy.ansible.com/list#/roles/1133
 
 Community roles:
