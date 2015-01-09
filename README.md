@@ -8,7 +8,7 @@ Theodoers roles:
 
 * Apache https://galaxy.ansible.com/list#/roles/1234
 * Apt https://galaxy.ansible.com/list#/roles/1166
-* Automysqlbackup https://galaxy.ansible.com/list#/roles/1697
+* Automysqlbackup https://galaxy.ansible.com/list#/roles/1824
 * Autopostgresqlbackup https://galaxy.ansible.com/list#/roles/1697
 * Composer https://galaxy.ansible.com/list#/roles/1119
 * SSH https://galaxy.ansible.com/list#/roles/1154
